@@ -48,5 +48,5 @@ width="200" align="right">
 ### Decoration 
 ![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 
-### Decoration 2 
+### Decoration with HTML
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
